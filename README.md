@@ -8,4 +8,4 @@ socat TCP-LISTEN:1337,fork,reuseaddr EXEC:'python main.py'
 ```
 You change the "python main.py" according to the name and langage of the challenge, then you connect on ip "0.0.0.0" and port 1337 like every netcat challenge.
 
-I hope you liked them or will like them when you try them.
+I hope you liked them or will like them when you try them. If you have questions or want to report a problem, contact me on discord Shadowwws#8683.
